@@ -1,0 +1,2 @@
+xunit==3.0.8
+gitpython==3.1.29
